@@ -4,7 +4,7 @@
 - Clone the directory and `cd` into it.
 - To play rock, paper and scissors: run `python3 rock_paper_scissors.py` in your terminal.
 - To play Tic Tac Toe: 
-  - `cd` into the tic tac te folder and run `python3 game.py`
+  - `cd` into the tic tac toe folder and run `python3 game.py`
   
 ## Built with - Python 3
 
