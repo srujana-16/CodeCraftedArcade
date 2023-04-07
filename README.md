@@ -5,7 +5,7 @@
 - To play Rock, Paper and Scissors: run `python3 rock_paper_scissors.py` in your terminal.
 - To play Tic Tac Toe: 
   - `cd` into the tic tac toe folder and run `python3 game.py`
- - To play Hangman:
+- To play Hangman:
   - `cd` into the hangman folder and run `python3 hangman.py`
   
 ## Built with - Python 3
