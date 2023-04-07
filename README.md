@@ -5,6 +5,8 @@
 - To play Rock, Paper and Scissors: run `python3 rock_paper_scissors.py` in your terminal.
 - To play Tic Tac Toe: 
   - `cd` into the tic tac toe folder and run `python3 game.py`
+ - To play Hangman:
+  - `cd` into the hangman folder and run `python3 hangman.py`
   
 ## Built with - Python 3
 
@@ -22,3 +24,6 @@
 ### Random Computer Player 
 - A tic-tac-toe game with various players in the command line. 
 - The oppnents player `x_player` has to be changed to `RandomComputerPlayer('X')` in `game.py` to play this version of the game. 
+
+## Hangman 
+- Worked with dictionaries, lists, and nested if statements. 
