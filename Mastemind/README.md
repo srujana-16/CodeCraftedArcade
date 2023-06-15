@@ -29,6 +29,8 @@ To play the Mastermind game, follow these steps:
 6. The player's objective is to complete the game in the fewest number of moves and in the shortest amount of time.
 7. Once all the matches are done, the game is over. 
 
+<br>
+
 ## **Installation**
 1. Clone or download the repository.
 2. Open the index.html file in a web browser.
