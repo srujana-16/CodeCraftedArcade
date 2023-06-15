@@ -1,6 +1,6 @@
 # **Mastermind** 
 
-<br>
+
 
 ## **Description**
 The Mastermind game is a classic memory-based game implemented using HTML, CSS, and JavaScript. The objective of the game is to flip over pairs of cards and find matching pairs. The game continues until all cards have been matched.
