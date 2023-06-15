@@ -2,12 +2,12 @@
 
 <br>
 
-## **Description 📃**
+## **Description**
 The Mastermind game is a classic memory-based game implemented using HTML, CSS, and JavaScript. The objective of the game is to flip over pairs of cards and find matching pairs. The game continues until all cards have been matched.
 
 <br>
 
-## **Functionalities 🎮**
+## **Functionalities**
 
 - Interactive grid of cards: The game presents a grid of face-down cards that can be flipped by clicking on them.
 - Flipping cards: Players can click on two cards to flip them over and reveal their contents.
@@ -18,7 +18,7 @@ The Mastermind game is a classic memory-based game implemented using HTML, CSS, 
 
 <br>
 
-## **How to play? 🕹️**
+## **How to play?**
 To play the Mastermind game, follow these steps:
 
 1. At the beginning of the game, the cards are shuffled and arranged in a grid face-down.
@@ -28,6 +28,10 @@ To play the Mastermind game, follow these steps:
 5. The player continues flipping cards until all pairs have been matched.
 6. The player's objective is to complete the game in the fewest number of moves and in the shortest amount of time.
 7. Once all the matches are done, the game is over. 
+
+## **Installation**
+1. Clone or download the repository.
+2. Open the index.html file in a web browser.
 
 
 <br>
