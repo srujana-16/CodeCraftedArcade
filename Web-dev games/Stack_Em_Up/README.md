@@ -5,6 +5,8 @@
 
 ## **Description 📃**
 <!-- add your game description here  -->
+**Reach for the Sky, One Block at a Time!**
+
 In Stack 'Em Up, your task is to stack blocks one over the other to create a tower. However, you must follow Newton's law of gravity, which means no block 
 can hang in the air. Each block must be supported by another block or the ground. The game implemented using HTML, CSS, and JavaScript
 
@@ -27,6 +29,11 @@ can hang in the air. Each block must be supported by another block or the ground
 5. Try to build the tallest tower possible!
 6. If a block falls or hangs in the air, the game is over.
 7. Challenge yourself to beat your high score and build taller towers.
+<br>
+
+## **Installation**
+1. Clone or download the repository.
+2. Open the index.html file in a web browser.
 
 <br>
 
