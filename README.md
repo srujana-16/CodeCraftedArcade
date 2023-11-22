@@ -1,4 +1,4 @@
-# **Multi Stack Games**
+# **Code Crafted Arcade**
 This repository contains games built using different tech stacks: web development with HTML, CSS, and JavaScript, and terminal games in Python.
 
 ## To compile and run
